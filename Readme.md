@@ -33,7 +33,7 @@ Also available via [unpkg] CDN:
 [npm]: https://www.npmjs.org/package/nprogress
 [unpkg]: https://unpkg.com/
 
-引入使用
+import 引入使用
 ------------
 
 ```js
@@ -41,7 +41,7 @@ import NProgress from 'nprogress'
 import 'nprogress/nprogress.css'
 ```
 
-Basic usage
+Basic usage - 基本用法
 -----------
 
 Simply call `start()` and `done()` to control the progress bar.
