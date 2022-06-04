@@ -1,4 +1,4 @@
-NProgress
+NProgress - 进度条控制
 =========
 
 [![Status](https://api.travis-ci.org/rstacruz/nprogress.svg?branch=master)](http://travis-ci.org/rstacruz/nprogress) 
