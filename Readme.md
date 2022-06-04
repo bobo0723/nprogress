@@ -33,7 +33,7 @@ Also available via [unpkg] CDN:
 [npm]: https://www.npmjs.org/package/nprogress
 [unpkg]: https://unpkg.com/
 
-import 引入使用
+import - 引入使用
 ------------
 
 ```js
