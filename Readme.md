@@ -38,8 +38,8 @@ Installation
 
 引入使用
 ```js
-    $ import NProgress from 'nprogress'    
-    $ import 'nprogress/nprogress.css'
+import NProgress from 'nprogress'    
+import 'nprogress/nprogress.css'
 ```
 
 Basic usage
