@@ -33,10 +33,9 @@ Also available via [unpkg] CDN:
 [npm]: https://www.npmjs.org/package/nprogress
 [unpkg]: https://unpkg.com/
 
-Installation
+引入使用
 ------------
 
-引入使用
 ```js
 import NProgress from 'nprogress'    
 import 'nprogress/nprogress.css'
