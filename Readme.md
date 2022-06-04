@@ -23,10 +23,6 @@ Add [nprogress.js] and [nprogress.css] to your project.
 NProgress is available via [bower] and [npm].
 
     $ npm install --save nprogress
-    
-引入使用
-    $ import NProgress from 'nprogress'    
-    $ import 'nprogress/nprogress.css'
 
 Also available via [unpkg] CDN:
 
@@ -36,6 +32,15 @@ Also available via [unpkg] CDN:
 [bower]: http://bower.io/search/?q=nprogress
 [npm]: https://www.npmjs.org/package/nprogress
 [unpkg]: https://unpkg.com/
+
+Installation
+------------
+
+引入使用
+```js
+    $ import NProgress from 'nprogress'    
+    $ import 'nprogress/nprogress.css'
+```
 
 Basic usage
 -----------
